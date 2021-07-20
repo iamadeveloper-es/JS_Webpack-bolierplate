@@ -1,4 +1,4 @@
-# Webpack basic fro JS
+# Webpack basic for JS
 ## Basic Webpack configuration for JS modules and SCSS
 
 ## Installation
